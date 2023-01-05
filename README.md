@@ -14,6 +14,8 @@ python_docs; python教程; markdown; jupyter notebook
 
 #### 语雀知识库：https://www.yuque.com/yime/learnpy
 
+#### 知乎专栏：https://www.zhihu.com/column/c_1500837133262315520
+
 #### 微信公众号：千里驹智能
 
 <img src="./images/qianliju.png"  height="200" width="600" />
