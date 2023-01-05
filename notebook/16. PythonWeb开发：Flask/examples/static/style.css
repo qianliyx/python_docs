@@ -1,0 +1,11 @@
+body {
+    background:rgb(7, 241, 78);
+}
+
+
+
+h1 {
+    color: #333333;
+    font-size: 72px;
+    text-shadow: 3px 3px 3px #666666;
+}

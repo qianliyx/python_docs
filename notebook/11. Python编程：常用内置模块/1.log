@@ -1,0 +1,4 @@
+INFO: [2022/05/06 14:37:21] - [608606045.py: 65] - [Python info]
+WARNING: [2022/05/06 14:37:21] - [608606045.py: 66] - [Python warning]
+ERROR: [2022/05/06 14:37:21] - [608606045.py: 67] - [Python Error]
+CRITICAL: [2022/05/06 14:37:21] - [608606045.py: 68] - [Python critical]

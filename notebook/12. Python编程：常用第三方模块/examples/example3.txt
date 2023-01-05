@@ -1,0 +1,4 @@
+name	value
+nanjing	1
+beijing	2
+shanghai	3
