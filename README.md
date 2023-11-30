@@ -10,25 +10,17 @@ python_docs; python教程; markdown; jupyter notebook
 
 #### github：https://github.com/Christnowx/python_docs
 
-#### 国内gitee：https://gitee.com/christnow/python_docs
-
 #### 知乎专栏：https://www.zhihu.com/column/c_1500837133262315520
-
-#### 微信公众号：千里驹智能
-
-<img src="./images/qianliju.png"  height="200" width="600" />
 
 ## 2. 书籍资源分享
 
-**关注上文公众号后台回复：python书籍**
-
-众多书籍与你分享（来源于网络收集电子版）
+**Leave me a message**
 
 ## 3. 赞赏
 
 **读后若有收获，可以微信请作者喝咖啡：**
 
-<img src="./images/goodness.jpg"  height="300" width="300" />
+<img src="./images/goodness.jpg"  height="200" width="200" />
 :::
 
 ## 4. 本教程目录
